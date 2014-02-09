@@ -1,0 +1,315 @@
+{"works":[
+	{ 
+	  "title": "Chanel", 
+
+	  "client":"Chanel",
+	  "context":"Pop up store opening boulevard Saint Honoré",
+	  "diffusion":"Web & Interne",
+	  "support":"Film / 2D Animation",
+
+	  "folder": "chanel",
+	  "tags": ["Video", "Animation 2D"],
+	  "cover":"cover.jpg",
+	  "thumb":"vignette.jpg",
+	  "media": [
+	    "CHANEL-1.jpg",
+	    "CHANEL-2.jpg",
+	    "CHANEL-3.jpg",
+	    "CHANEL-4.jpg"
+	  ]
+	},
+	{ 
+	  "title": "CNES Ariane", 
+	  "client":"National Centre for Space Studies",
+	  "context":"Web campaign for thirty years of the Ariane rocket",
+	  "diffusion":"Web",
+	  "support":"Film",
+
+	  "tags": ["Video"],
+	  "folder": "cnes-ariane",
+	  "cover":"cover.jpg",	  
+	  "thumb":"vignette.jpg",
+	  "media": [
+	  "8330730",
+	    "Ariane-1.jpg",
+	    "Ariane-2.jpg",
+	    "Ariane-3.jpg",
+	    "Ariane-4.jpg"
+	  ]
+
+	},
+	{ 
+	  "title": "Crédit Agricole", 
+	  "client":"Crédit Agricole / BETC",
+	  "context":"Advertising campaign around the CA Web services",
+	  "diffusion":"Web",
+	  "support":"Animation 2D / Motion design",
+	  "tags": ["Video", "Animation 2D", "Motion design"],
+	  "folder": "credit-agricole",
+	  "thumb":"vignette.jpg",
+	  "cover":"cover.jpg",
+	  "media": [
+	    "57444344",
+	    "CA-1.jpg",
+	    "CA-2.jpg",
+	    "CA-3.jpg"
+	  ]
+
+	},
+	{ 
+	  "title": "La Poste", 
+	  
+	  "client":"La Poste / BETC",
+	  "context":"TV advertising",
+	  "diffusion":"TV",
+	  "support":"Animation 2D",
+	  
+	  "tags": ["Video", "Animation 2D"],
+	  "folder": "la-poste",
+	  "thumb":"vignette.jpg",
+	  "cover":"cover.jpg",
+	  "media": [
+	  "31783150",
+	    "laposte-1.jpg",
+	    "laposte-2.jpg",
+	    "laposte-3.jpg"
+	  ]
+	},
+	{ 
+	  "title": "Lancôme", 
+
+	  "client":"Lancôme / Publicis 133",
+	  "context":"Hypnose Star mascara launch",
+	  "diffusion":"Web",
+	  "support":"Animation 2D",
+
+	  "folder": "lancome",
+	  "tags": ["Video", "Animation 2D"],
+	  "thumb":"vignette.jpg",
+	  "cover":"cover.jpg",
+	  "media": [
+	    "46288745",
+	    "Lancome-1.jpg",
+	    "Lancome-2.jpg",
+	    "Lancome-3.jpg",
+	    "Lancome-4.jpg",
+	    "Lancome-5.jpg"
+	  ]
+
+	},{ 
+	  "title": "Lego Castelbajac", 
+	  
+	  "client":"Jean Charles de Castelbajac / LEGO",
+	  "context":"Co-branding around the first digital fashion show",
+	  "diffusion":"Event & Web",
+	  "support":"Animation 3D",
+
+	  "folder": "lego-castelbajac",
+	  "thumb":"vignette.jpg",
+	  "tags": ["Video", "Animation 3D"],
+	  "cover":"cover.jpg",
+	  "media": [
+	    "16281188",
+	    "Lego-1.jpg",
+	    "Lego-2.jpg",
+	    "Lego-3.jpg",
+	    "Lego-4.jpg"
+	  ]
+	},{ 
+	  "title": "Magic Forest",
+	  "client":"Forget Me Not",
+	  "context":"Window display / Light installation",
+	  "diffusion":"London Gallery",
+	  "support":"",
+	  "folder": "magic-forest",
+	  "thumb":"vignette.jpg",
+	  "cover":"cover.jpg",	  
+	  "tags": ["Installation","Event", "Installation"],
+	  "media": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
+	  ]
+  } ,{ 
+	  "title": "Hogan",
+	  "client":"Hi-ReS!",
+	  "context":"Responsive HTML5 & JS Front End development.",
+	  "diffusion":"Web",
+	  "support":"",
+	  "folder": "hogan",
+	  "thumb":"vignette.jpg",
+	  "cover":"cover.jpg",	  
+	  "tags": ["HTML5","Development","Web"],
+	  "media": [
+	    "01.jpg"
+	  ]
+  }  ,{ 
+  	  "title": "Dore",
+  	  "client":"DDB Istanbul",
+  	  "context":"Tv Ad / Set Design & Art Direction",
+  	  "diffusion":"TV",
+  	  "support":"",
+  	  "folder": "dore",
+  	  "thumb":"vignette.jpg",
+  	  "cover":"cover.jpg",	  
+  	  "tags": ["TV","Ad","Art Direction", "Set design"],
+  	  "media": [
+        "68046470",
+        "01.jpg",
+        "02.jpg",
+        "03.jpg",
+        "04.jpg",
+        "05.jpg",
+        "06.png",
+  	    "68046471"
+  	  ]
+    }
+     ,{ 
+    	  "title": "Paper Prada",
+    	  "client":"Decouture.com",
+    	  "context":"Paper set & illustrations",
+    	  "diffusion":"Web, Print",
+    	  "support":"",
+    	  "folder": "paper-prada",
+    	  "thumb":"vignette.jpg",
+    	  "cover":"cover.jpg",	  
+    	  "tags": ["Paper", "Set design"],
+    	  "media": [
+          "01.jpg",
+          "02.jpg",
+          "03.jpg",
+          "04.jpg",
+          "05.jpg"
+    	  ]
+      },{ 
+      	  "title": "Microsoft Creative Gallery",
+      	  "client":"Microsoft",
+      	  "context":" Interactive Installation, Openframeworks development",
+      	  "diffusion":"Web, Print",
+      	  "support":"",
+      	  "folder": "microsoft-palais-de-tokyo",
+      	  "thumb":"vignette.jpg",
+      	  "cover":"cover.jpg",	  
+      	  "tags": ["Interactive", "Installation"],
+      	  "media": [
+            "01.jpg",
+            "02.jpg",
+            "03.png"
+      	  ]
+        }
+        ,{ 
+        	  "title": "Chaumet",
+        	  "client":"Chaumet / LVMH",
+        	  "context":"Evénement VIP à Courchevel à Cheval Blanc  avec présentation de Haute Joaillerie",
+        	  "diffusion":"Scénographie, stylisme , chorégraphie conception et production",
+        	  "support":"",
+        	  "folder": "chaumet",
+        	  "thumb":"vignette.jpg",
+        	  "cover":"cover.jpg",	  
+        	  "tags": ["Event"],
+        	  "media": [
+              "01.jpg",
+              "02.png",
+              "03.png"
+        	  ]
+          }
+          ,{ 
+          	  "title": "GQ",
+          	  "client":"GQ // Les Publications Condé-Nast",
+          	  "context":"Cérémonie et Soirée \"GQ Les Hommes de l’Année\"  au musée d’Orsay en 2012 et au Muséum National d'histoire naturelle en 2013",
+          	  "diffusion":"Conception et Production de l’événement : 150 VIP accueillis au dîner de gala er pour la cérémonie ainsi que 1000 personnes à la soirée privée",
+          	  "support":"",
+          	  "folder": "gq",
+          	  "thumb":"vignette.jpg",
+          	  "cover":"cover.jpg",	  
+          	  "tags": ["Event"],
+          	  "media": [
+                "01.png",
+                "02.png",
+                "03.png",
+                "04.png"
+          	  ]
+            }
+            ,{ 
+            	  "title": "Grey Goose",
+            	  "client":"Grey Goose //  Bacardi-Martini",
+            	  "context":"Scénographie, conception et production du bar Grey Goose",
+            	  "diffusion":"Création graphique // Design d’objet et d'espace",
+            	  "support":"",
+            	  "folder": "greygoose",
+            	  "thumb":"vignette.jpg",
+            	  "cover":"cover.jpg",	  
+            	  "tags": ["Event"],
+            	  "media": [
+                  "01.jpg",
+                  "02.png"
+            	  ]
+              }
+              ,{ 
+              "title": "Piper Heidsieck",
+              "client":"Piper Heidsieck // PHCH",
+              "context":"Scénographie, conception et production du bar Piper Heidsieck",
+              "diffusion":"Création graphique // Design d’objet et d'espace",
+              "support":"",
+              "folder": "piper",
+              "thumb":"vignette.jpg",
+              "cover":"cover.jpg",	  
+              "tags": ["Event"],
+              "media": [
+              "01.png"
+              ]
+              }
+              ,{ 
+              "title": "UNICEF",
+              "client":"UNICEF / FRIMOUSSES DE CREATEURS",
+              "context":"Opération caritative Les Frimousses de Createurs au Petit Palais et  vente au enchère au Four Season Georges V",
+              "diffusion":"Stratégies de relations publiques et relations presse a l'international. Scénographie et curatoring de l'exposition.",
+              "support":"",
+              "folder": "unicef",
+              "thumb":"vignette.jpg",
+              "cover":"cover.jpg",	  
+              "tags": ["Event"],
+              "media": [
+              "01.png",
+              "02.png"
+              ]
+              }
+              ,{ 
+              "title": "TMC",
+              "client":"TMC Régie // Groupe TF1",
+              "context":"Voyages Annonceurs Premium(Europe, USA, Maroc)",
+              "diffusion":"Conception et production de l’événement, Prospection de sites et d’annonceurs de voyages, Réseau de prestataires pour déplacement privé en hélicoptère, bateau et avion, Cadeaux prestiges personnalisés.",
+              "support":"",
+              "folder": "tmc",
+              "thumb":"vignette.jpg",
+              "cover":"cover.jpg",	  
+              "tags": ["Event"],
+              "media": [
+              "01.png",
+              "02.png",
+              "03.png",
+              "04.png"
+              ]
+              }
+              ,{ 
+              "title": "MOW",
+              "client":"W Hotel",
+              "context":"Organisation concert M",
+              "diffusion":"",
+              "support":"",
+              "folder": "mow",
+              "thumb":"vignette.jpg",
+              "cover":"cover.jpg",	  
+              "tags": ["Event"],
+              "media": [
+              "01.png",
+              "02.png",
+              "03.png"
+              ]
+              }
+
+
+
+]}
